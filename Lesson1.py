@@ -1,0 +1,5 @@
+print("inmybutt")
+print (99)
+carrots = ("inmybutt")
+print (carrots)
+print (type(carrots))
